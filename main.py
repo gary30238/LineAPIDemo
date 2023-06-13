@@ -4,7 +4,7 @@ import requests
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     # LINE Notify 權杖
-    token = '2wyNxGpvhPZUSV2Xv5gsyx3hg6r7nrCLZ4gVEEJOsQN'
+    token = 'Line_Token'
 
     # 要發送的訊息
     message = 'Chat'
